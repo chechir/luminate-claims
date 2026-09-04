@@ -1,3 +1,5 @@
 loguru
 requests
 python-dotenv
+pandas
+pyarrow
